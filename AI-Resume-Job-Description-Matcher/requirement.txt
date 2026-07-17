@@ -1,0 +1,17 @@
+streamlit
+PyPDF2
+python-docx
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langgraph
+scikit-learn
+pandas
+numpy
+groq
+chromadb
+sentence-transformers
+pypdf
+tiktoken
