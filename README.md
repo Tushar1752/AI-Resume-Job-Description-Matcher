@@ -49,13 +49,13 @@ Before running this project, make sure you have:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Tushar1752/resume_matcher.git
+git clone https://github.com/Tushar1752/AI-Resume-Job-Description-Matcher.git
 ```
 
 ### Go to the Project Folder
 
 ```bash
-cd resume_matcher
+cd AI-Resume-Job-Description-Matcher
 ```
 
 ### Create Virtual Environment
