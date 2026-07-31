@@ -217,18 +217,4 @@ If you found this project helpful, please ⭐ star the repository.
 
 GitHub: https://github.com/Tushar1752
 
-🎥 Project Demo
 
-Watch the complete demonstration of the AI Resume–Job Description Matcher application below.
-
-The demo showcases:
-
-* 📄 Uploading a resume (PDF/DOCX)
-* 📋 Entering a job description
-* 📊 Calculating the ATS Match Score
-* ✅ Identifying matching skills
-* ❌ Detecting missing skills
-* 🤖 Generating AI-powered resume feedback
-* 💡 Providing personalized resume improvement suggestions
-
-Demo Video: 
